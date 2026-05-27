@@ -4,7 +4,17 @@ Incremental lessons learning Go.
 
 ## Prerequisites
 
-- Go toolchain (`go version`)
+- Go toolchain
+
+### Install
+
+- macOS (Homebrew): `brew install go`
+- Debian / Ubuntu: `sudo apt install golang-go` (often older; for the latest version use the official tarball)
+- Other / latest: see [go.dev/dl](https://go.dev/dl/)
+
+### Verify
+
+    go version
 
 ## Lessons
 

@@ -1,3 +1,0 @@
-module github.com/pmaratbox/go-lang/0038-string-methods
-
-go 1.22

@@ -115,6 +115,7 @@ Incremental lessons learning Go.
 - [0095-guard-clauses](0095-guard-clauses/) — early-return classification → negative / zero / positive
 - [0096-mutual-recursion](0096-mutual-recursion/) — isEven/isOdd call each other → even / odd
 - [0097-enums-with-associated-values](0097-enums-with-associated-values/) — tagged shapes → 6 / 16
+- [0098-memoization](0098-memoization/) — memoized fibonacci(10) → 55
 
 ## How to run
 

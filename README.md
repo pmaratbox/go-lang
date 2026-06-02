@@ -93,6 +93,7 @@ Incremental lessons learning Go.
 - [0073-caesar-cipher](0073-caesar-cipher/) — shift "abc" by 1 → bcd
 - [0074-run-length-encoding](0074-run-length-encoding/) — encode "aaabbc" → a3b2c1
 - [0075-anagram-check](0075-anagram-check/) — are they anagrams? → listen/silent: yes
+- [0076-count-vowels](0076-count-vowels/) — count vowels in "hello" → 2
 
 ## How to run
 

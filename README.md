@@ -553,6 +553,7 @@ Incremental lessons learning Go.
 ### Validation & Schemas
 - [0485-valid-input](32-validation/0485-valid-input/) — a valid object passes validation
 - [0486-required-field](32-validation/0486-required-field/) — a required field is missing
+- [0487-min-length](32-validation/0487-min-length/) — a string is too short
 
 ## How to run
 

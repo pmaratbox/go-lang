@@ -523,6 +523,7 @@ Incremental lessons learning Go.
 - [0460-deserialize-object](29-serialization/0460-deserialize-object/) — parse a JSON string into a typed object
 - [0461-nested-object](29-serialization/0461-nested-object/) — serialize an object containing another object
 - [0462-array-of-objects](29-serialization/0462-array-of-objects/) — serialize a list of objects to a JSON array
+- [0463-array-of-primitives](29-serialization/0463-array-of-primitives/) — serialize a list of integers
 
 ## How to run
 

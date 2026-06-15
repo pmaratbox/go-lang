@@ -538,6 +538,7 @@ Incremental lessons learning Go.
 - [0473-multiple-values](30-cli-args/0473-multiple-values/) — collect a repeated option into a list
 - [0474-subcommand](30-cli-args/0474-subcommand/) — dispatch to a subcommand
 - [0475-required-option](30-cli-args/0475-required-option/) — declare an option as required
+- [0476-choice-option](30-cli-args/0476-choice-option/) — restrict an option to a set of choices
 
 ## How to run
 

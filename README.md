@@ -624,6 +624,9 @@ Incremental lessons learning Go.
 - [0551-reset](39-state-machines/0551-reset/) — a reset event returns to the initial state
 - [0552-workflow](39-state-machines/0552-workflow/) — a multi-step approval workflow
 
+### Cryptography & Hashing
+- [0559-sha256](41-crypto-hashing/0559-sha256/) — sHA-256 hash of a string
+
 ## How to run
 
 Lessons are grouped into topic folders (e.g. `05-strings/0072-palindrome-check/`).

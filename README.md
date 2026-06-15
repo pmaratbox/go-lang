@@ -608,6 +608,7 @@ Incremental lessons learning Go.
 - [0537-parse-integer](38-parser-combinators/0537-parse-integer/) — parse a run of digits into an int
 - [0538-sequence](38-parser-combinators/0538-sequence/) — parse two parsers in sequence
 - [0539-alternative](38-parser-combinators/0539-alternative/) — choice between two parsers
+- [0540-many](38-parser-combinators/0540-many/) — repeat a parser zero+ times
 
 ## How to run
 

@@ -616,6 +616,7 @@ Incremental lessons learning Go.
 
 ### State Machines
 - [0545-basic-transition](39-state-machines/0545-basic-transition/) — one event changes state
+- [0546-toggle](39-state-machines/0546-toggle/) — an event that flips between two states
 
 ## How to run
 

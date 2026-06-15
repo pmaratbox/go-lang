@@ -536,6 +536,7 @@ Incremental lessons learning Go.
 - [0471-option-with-value](30-cli-args/0471-option-with-value/) — parse an option that takes a value
 - [0472-default-value](30-cli-args/0472-default-value/) — use an option's default when absent
 - [0473-multiple-values](30-cli-args/0473-multiple-values/) — collect a repeated option into a list
+- [0474-subcommand](30-cli-args/0474-subcommand/) — dispatch to a subcommand
 
 ## How to run
 

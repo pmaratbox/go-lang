@@ -562,6 +562,7 @@ Incremental lessons learning Go.
 
 ### Web Frameworks
 - [0493-hello-route](33-web-frameworks/0493-hello-route/) — define a GET route returning text
+- [0494-json-response](33-web-frameworks/0494-json-response/) — return a JSON body
 
 ## How to run
 

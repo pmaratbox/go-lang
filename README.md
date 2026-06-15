@@ -547,6 +547,7 @@ Incremental lessons learning Go.
 - [0480-nested-access](31-template-engines/0480-nested-access/) — access a nested field in a template
 - [0481-loop-objects](31-template-engines/0481-loop-objects/) — iterate a list of objects
 - [0482-uppercase-filter](31-template-engines/0482-uppercase-filter/) — apply an uppercase filter/helper
+- [0483-default-value](31-template-engines/0483-default-value/) — provide a default for a missing value
 
 ## How to run
 

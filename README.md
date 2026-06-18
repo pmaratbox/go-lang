@@ -639,6 +639,7 @@ Incremental lessons learning Go.
 - [0568-yaml-nested](42-yaml-toml/0568-yaml-nested/) — read a value from a nested YAML mapping
 - [0569-yaml-sequence](42-yaml-toml/0569-yaml-sequence/) — parse a YAML sequence (list)
 - [0570-yaml-dump](42-yaml-toml/0570-yaml-dump/) — serialize a map to sorted block-style YAML
+- [0571-toml-scalars](42-yaml-toml/0571-toml-scalars/) — parse top-level TOML keys
 
 ## How to run
 

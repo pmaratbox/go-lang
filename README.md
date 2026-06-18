@@ -648,6 +648,7 @@ Incremental lessons learning Go.
 - [0575-csv-parse](43-csv/0575-csv-parse/) — parse CSV text into rows
 - [0576-csv-headers](43-csv/0576-csv-headers/) — read the CSV header row
 - [0577-csv-quoted-fields](43-csv/0577-csv-quoted-fields/) — parse a quoted field containing a comma
+- [0578-csv-write](43-csv/0578-csv-write/) — write rows to CSV with the library
 
 ## How to run
 

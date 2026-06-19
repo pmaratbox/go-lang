@@ -750,6 +750,7 @@ Incremental lessons learning Go.
 - [0657-di-resolve](53-dependency-injection/0657-di-resolve/) — register and resolve a service
 - [0658-di-dependency](53-dependency-injection/0658-di-dependency/) — a service depends on another
 - [0659-di-singleton](53-dependency-injection/0659-di-singleton/) — same instance resolved twice
+- [0660-di-interface](53-dependency-injection/0660-di-interface/) — resolve by interface
 
 ## How to run
 

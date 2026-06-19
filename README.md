@@ -743,6 +743,7 @@ Incremental lessons learning Go.
 - [0652-retry-return-value](52-resilience/0652-retry-return-value/) — return the successful result
 - [0653-retry-count-attempts](52-resilience/0653-retry-count-attempts/) — count total attempts on failure
 - [0654-retry-result-predicate](52-resilience/0654-retry-result-predicate/) — retry based on the returned value
+- [0655-retry-fixed-backoff](52-resilience/0655-retry-fixed-backoff/) — retry with a fixed delay strategy
 
 ## How to run
 

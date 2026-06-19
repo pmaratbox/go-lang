@@ -708,6 +708,7 @@ Incremental lessons learning Go.
 
 ### Structured Logging
 - [0625-log-info](49-logging/0625-log-info/) — emit an info-level log record
+- [0626-log-warn](49-logging/0626-log-warn/) — emit a warn-level log record
 
 ## How to run
 

@@ -703,6 +703,7 @@ Incremental lessons learning Go.
 - [0620-http-request-header](48-http-clients/0620-http-request-header/) — send a custom request header
 - [0621-http-response-header](48-http-clients/0621-http-response-header/) — read a custom response header
 - [0622-http-404](48-http-clients/0622-http-404/) — handle a 404 status
+- [0623-http-post-json](48-http-clients/0623-http-post-json/) — pOST JSON and parse the JSON reply
 
 ## How to run
 

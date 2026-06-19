@@ -742,6 +742,7 @@ Incremental lessons learning Go.
 - [0651-retry-exhausted](52-resilience/0651-retry-exhausted/) — give up after max attempts
 - [0652-retry-return-value](52-resilience/0652-retry-return-value/) — return the successful result
 - [0653-retry-count-attempts](52-resilience/0653-retry-count-attempts/) — count total attempts on failure
+- [0654-retry-result-predicate](52-resilience/0654-retry-result-predicate/) — retry based on the returned value
 
 ## How to run
 

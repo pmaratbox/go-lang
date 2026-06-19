@@ -728,6 +728,7 @@ Incremental lessons learning Go.
 
 ### Caching & Eviction
 - [0641-cache-put-get](51-caching/0641-cache-put-get/) — store and retrieve a value
+- [0642-cache-miss](51-caching/0642-cache-miss/) — look up an absent key
 
 ## How to run
 

@@ -666,6 +666,7 @@ Incremental lessons learning Go.
 
 ### XML
 - [0591-xml-element-text](45-xml/0591-xml-element-text/) — read an element's text
+- [0592-xml-attribute](45-xml/0592-xml-attribute/) — read an element attribute
 
 ## How to run
 

@@ -738,6 +738,7 @@ Incremental lessons learning Go.
 
 ### Retry & Resilience
 - [0649-retry-success](52-resilience/0649-retry-success/) — no retry needed
+- [0650-retry-eventual-success](52-resilience/0650-retry-eventual-success/) — succeeds after one failure
 
 ## How to run
 

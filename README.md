@@ -689,6 +689,7 @@ Incremental lessons learning Go.
 - [0608-encode-string](47-encoding-binary/0608-encode-string/) — messagePack-encode a string
 - [0609-encode-bool](47-encoding-binary/0609-encode-bool/) — messagePack-encode a boolean
 - [0610-encode-array](47-encoding-binary/0610-encode-array/) — messagePack-encode an array of ints
+- [0611-encode-nested-array](47-encoding-binary/0611-encode-nested-array/) — messagePack-encode a nested array
 
 ## How to run
 

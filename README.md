@@ -710,6 +710,7 @@ Incremental lessons learning Go.
 - [0625-log-info](49-logging/0625-log-info/) — emit an info-level log record
 - [0626-log-warn](49-logging/0626-log-warn/) — emit a warn-level log record
 - [0627-log-error](49-logging/0627-log-error/) — emit an error-level log record
+- [0628-log-string-field](49-logging/0628-log-string-field/) — attach a string structured field
 
 ## How to run
 

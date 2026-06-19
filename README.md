@@ -667,6 +667,7 @@ Incremental lessons learning Go.
 ### XML
 - [0591-xml-element-text](45-xml/0591-xml-element-text/) — read an element's text
 - [0592-xml-attribute](45-xml/0592-xml-attribute/) — read an element attribute
+- [0593-xml-nested](45-xml/0593-xml-nested/) — read a nested element's text
 
 ## How to run
 

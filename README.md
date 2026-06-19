@@ -720,6 +720,7 @@ Incremental lessons learning Go.
 - [0633-config-read](50-config/0633-config-read/) — read a top-level config value
 - [0634-config-nested](50-config/0634-config-nested/) — read a nested config value
 - [0635-config-list](50-config/0635-config-list/) — read a list/array config value
+- [0636-config-bool](50-config/0636-config-bool/) — read a boolean config value
 
 ## How to run
 

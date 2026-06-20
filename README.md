@@ -802,6 +802,7 @@ Incremental lessons learning Go.
 - [0707-uuid-v5](59-uuid-id/0707-uuid-v5/) — deterministic UUIDv5 from a name
 - [0708-uuid-v5-stable](59-uuid-id/0708-uuid-v5-stable/) — same name yields the same UUID
 - [0709-uuid-nil](59-uuid-id/0709-uuid-nil/) — the all-zero UUID
+- [0710-uuid-version](59-uuid-id/0710-uuid-version/) — read a UUID's version number
 
 ## How to run
 
